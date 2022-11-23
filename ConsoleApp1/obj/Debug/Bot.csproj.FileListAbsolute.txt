@@ -1,0 +1,10 @@
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\ConsoleApp1\obj\Debug\Bot.csproj.AssemblyReference.cache
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\ConsoleApp1\obj\Debug\Bot.csproj.SuggestedBindingRedirects.cache
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\ConsoleApp1\obj\Debug\Bot.csproj.CoreCompileInputs.cache
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\ConsoleApp1\bin\Debug\SHA3.Net.dll
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\ConsoleApp1\obj\Debug\Bot.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\Botnet\bin\Release\Botnet.exe.config
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\Botnet\bin\Release\Botnet.exe
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\Botnet\bin\Release\Botnet.pdb
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\Botnet\obj\Release\Controller.csproj.AssemblyReference.cache
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\Botnet\obj\Release\Controller.csproj.SuggestedBindingRedirects.cache
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\Botnet\obj\Release\Controller.csproj.CoreCompileInputs.cache
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\Botnet\obj\Release\Botnet.exe
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\Botnet\obj\Release\Botnet.pdb
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\Botnet\bin\Release\SHA3.Net.dll
+C:\Users\phong\Desktop\AnToanMangMayTinh\Lab\Botnet\obj\Release\Controller.csproj.CopyComplete
